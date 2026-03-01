@@ -29,6 +29,7 @@ r_drawparticles
 accuracy_nospread
 
 PLAYER
+
 no clip
 rethrow last grenade
 grenade preview
